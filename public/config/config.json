@@ -1,0 +1,20 @@
+{
+  "CONTRACT_ADDRESS": "0x61e06A64635F5444768A9E0a48765cAC98292979",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/token/0xdbec67bfb6b191bd7ae47631a5392e3367f37e93",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "ETH",
+
+
+    "ID": 4
+  },
+  "NFT_NAME": "Doge Club",
+  "SYMBOL": "DC",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 75000000000000000,
+  "DISPLAY_COST": 0.075,
+  "GAS_LIMIT": 585000,
+  "MARKETPLACE": "LooksRare",
+  "MARKETPLACE_LINK": "https://looksrare.org/collection/doge-club",
+  "SHOW_BACKGROUND": true
+}
